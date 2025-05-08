@@ -47,8 +47,8 @@ Collaborated on the development of a football simulation game featuring **autono
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
-- Email: your.email@example.com
+- [LinkedIn](www.linkedin.com/in/santiago-nicolás-bonelli-del-hoyo-0b6865340)  
+- Email: nico.bonellidelhoyo@gmail.com
 
 
 
