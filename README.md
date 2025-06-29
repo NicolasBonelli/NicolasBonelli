@@ -3,13 +3,19 @@
 <p align="center">
   <img src="https://i.imgur.com/uKeudoc.jpeg" alt="Descripción" width="1050"/>
 </p>
+
+---
+
 # Here are some of my personal projects:
 
-🛠️ Personal Projects
-###💼 [Job Searcher](https://github.com/NicolasBonelli/jobFinder)
-**AI Engineer & Automation Developer** | May 2025 – Jun 2025
-Built an end-to-end job recommendation system that automatically scrapes job offers, matches them to user profiles using semantic similarity, and notifies users through Telegram. Designed the full data pipeline using GitHub Actions, n8n, and AWS S3, integrating a matcher built with sentence embeddings and a Crawl4AI-based scraper.
-**Tech**: Python, Crawl4AI, Sentence Transformers, GitHub Actions, AWS S3, n8n, Telegram Bot API
+## 🛠️ Personal Projects
+
+### 💼 [Job Searcher](https://github.com/NicolasBonelli/jobFinder)  
+**AI Engineer & Automation Developer** | May 2025 – Jun 2025  
+Built an end-to-end job recommendation system that automatically scrapes job offers, matches them to user profiles using semantic similarity, and notifies users through Telegram. Designed the full data pipeline using GitHub Actions, n8n, and AWS S3, integrating a matcher built with sentence embeddings and a Crawl4AI-based scraper.  
+**Tech:** Python, Crawl4AI, Sentence Transformers, GitHub Actions, AWS S3, n8n, Telegram Bot API
+
+---
 
 # Here are some of the collaborative projects I’ve worked on:
 
