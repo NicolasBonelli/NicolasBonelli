@@ -39,8 +39,6 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
-# Here are some of my personal projects:
-
 ## 🛠️ Personal Projects
 
 ### 🧠 [Company Assistant](https://github.com/NicolasBonelli/QAHelper)  
@@ -57,8 +55,6 @@ Built an end-to-end job recommendation system that automatically scrapes job off
 **Tech:** Python, Crawl4AI, Sentence Transformers, GitHub Actions, AWS S3, n8n, Telegram Bot API
 
 ---
-
-# Here are some of the collaborative projects I’ve worked on:
 
 ## 🤝 Collaborative Working Experiences / Projects 
 
