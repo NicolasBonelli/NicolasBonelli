@@ -5,6 +5,39 @@
 </p>
 
 ---
+# 🚀 Tech Stack
+---
+
+### 🧠 AI & Data
+![LangChain](https://img.shields.io/badge/LangChain-%23007396?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23007396?style=for-the-badge&logo=graph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-%23007396?style=for-the-badge&logo=smith&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ⚙️ Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23009688?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🎨 Frontend & Tools
+![Nextjs](https://img.shields.io/badge/nextjs-%23FF4B4B?style=for-the-badge&logo=nextjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2300D8FF?style=for-the-badge&logo=react&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4D8A?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Here are some of my personal projects:
 
