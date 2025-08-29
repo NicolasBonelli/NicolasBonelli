@@ -24,7 +24,7 @@ Built an end-to-end job recommendation system that automatically scrapes job off
 
 # Here are some of the collaborative projects I’ve worked on:
 
-## 🤝 Collaborative Projects
+## 🤝 Collaborative Working Experiences / Projects 
 
 ### 🔍 [TechLens](https://github.com/NicolasBonelli/langchain-bot)  
 **AI Engineer & Full Stack Developer** | Jan 2024 – Dec 2024 
