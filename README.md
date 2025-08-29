@@ -11,8 +11,10 @@
 ## 🛠️ Personal Projects
 
 ### 🧠 [Company Assistant](https://github.com/NicolasBonelli/QAHelper)  
-**AI Engineer** | June 2025 – Present  
-Developing a multi-agent assistant designed to support company workflows through intelligent coordination and task delegation. Built using **LangGraph** and **MCP (Model Context Protocol)**, the system orchestrates multiple LLM-driven agents for tasks like document analysis, chat history memory, and action planning. Integrates **LlamaIndex**, **pgvector**, and **AWS RDS** for scalable context management.  
+**AI Engineer** | June 2025 – Aug 2025 
+Co-developed Company Assistant, a multi-agent chatbot platform designed to help companies automate customer support and internal workflows. The system orchestrates multiple LLM-driven agents using LangGraph and LangChain, enabling reasoning, document retrieval, and contextual memory. 
+Integrated LlamaIndex with semantic chunking for knowledge retrieval, and PostgreSQL with pgvector on AWS RDS for long-term conversational and knowledge storage. Used MCP (Model Context Protocol) to standardize tool access, FastMCP to expose custom tools, and Guardrails-AI to enforce content moderation. CI/CD
+pipelines were set up with GitHub Actions, and the backend was implemented with FastAPI. The system also leverages AWS S3 for document storage and RabbitMQ for pipeline orchestration.
 **Tech:** Python, LangGraph, MCP, Gemini LLM, LlamaIndex, PostgreSQL + pgvector, AWS RDS, Semantic Chunking, Multi-Agent Architectures
 
 ### 💼 [Job Searcher](https://github.com/NicolasBonelli/jobFinder)  
