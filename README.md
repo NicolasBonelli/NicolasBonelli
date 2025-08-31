@@ -40,18 +40,24 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🛠️ Personal Projects
+---
+### 📊 [FinSights](https://github.com/NicolasBonelli/FinSights)
+**AI Engineer** | Aug 2025 – Present
+Developed FinSights, an automated financial insights and reporting platform designed to streamline analysis of corporate documents and market data. The system orchestrates multiple CrewAI agents specialized in RAG-based retrieval, KPI extraction, peer benchmarking, and risk signal detection, enabling comprehensive executive-style reporting.
+Implemented a data pipeline with RabbitMQ for asynchronous processing, integrating LlamaIndex with semantic chunking and Document Parent Retriever for structured knowledge ingestion. Financial data and embeddings are indexed in Elasticsearch (hybrid search), while LangExtract powers relational context retrieval. Redis is used to track processed documents and ensure pipeline efficiency.
+The platform produces a multi-format output package, including executive summaries in PDF, dynamic dashboards, structured JSON with KPIs and evidences, and actionable risk alerts. Designed to support both human analysts and automated systems, ensuring scalability and real business impact.
+**Tech:**  Python, CrewAI, LangChain, Elasticsearch (Hybrid Search), LlamaIndex (Semantic Chunking + Parent Retriever), LangExtract, RabbitMQ, Redis, PDF Reports, Data Visualization
 
 ### 🧠 [Company Assistant](https://github.com/NicolasBonelli/QAHelper)  
 **AI Engineer** | June 2025 – Aug 2025 
 Co-developed Company Assistant, a multi-agent chatbot platform designed to help companies automate customer support and internal workflows. The system orchestrates multiple LLM-driven agents using LangGraph and LangChain, enabling reasoning, document retrieval, and contextual memory. 
 Integrated LlamaIndex with semantic chunking for knowledge retrieval, and PostgreSQL with pgvector on AWS RDS for long-term conversational and knowledge storage. Used MCP (Model Context Protocol) to standardize tool access, FastMCP to expose custom tools, and Guardrails-AI to enforce content moderation. CI/CD
 pipelines were set up with GitHub Actions, and the backend was implemented with FastAPI. The system also leverages AWS S3 for document storage and RabbitMQ for pipeline orchestration.
-
 **Tech:** Python, LangGraph, MCP, Gemini LLM, LlamaIndex, PostgreSQL + pgvector, AWS RDS, Semantic Chunking, Multi-Agent Architectures
 
 ### 💼 [Job Searcher](https://github.com/NicolasBonelli/jobFinder)  
 **AI Engineer & Automation Developer** | May 2025 – Jun 2025  
-Built an end-to-end job recommendation system that automatically scrapes job offers, matches them to user profiles using semantic similarity, and notifies users through Telegram. Designed the full data pipeline using GitHub Actions, n8n, and AWS S3, integrating a matcher built with sentence embeddings and a Crawl4AI-based scraper.  
+Built an end-to-end job recommendation system that automatically scrapes job offers, matches them to user profiles using semantic similarity, and notifies users through Telegram. Designed the full data pipeline using GitHub Actions, n8n, and AWS S3, integrating a matcher built with sentence embeddings and a Crawl4AI-based scraper.
 **Tech:** Python, Crawl4AI, Sentence Transformers, GitHub Actions, AWS S3, n8n, Telegram Bot API
 
 ---
